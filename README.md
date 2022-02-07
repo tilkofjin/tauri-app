@@ -1,4 +1,4 @@
-## TAURI App Demo
+## [Tauri](https://tauri.studio/) App Demo
 
 In the project directory, you can run:
 
@@ -13,7 +13,7 @@ Builds the app for production to the `build` folder.\
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-[TAURI Docs](https://tauri.studio/docs/development/intro)
+[Tauri Docs](https://tauri.studio/docs/development/intro)
 ### `yarn tauri init`
 
 This command will place a new folder in your current working directory, src-tauri.
